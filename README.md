@@ -1,0 +1,2 @@
+# sipel
+Sistem Informasi Penjualan
